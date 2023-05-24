@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#count-label{
+    display:blcok;
+    text-align: center;
+    font-size: 50px;
+}
